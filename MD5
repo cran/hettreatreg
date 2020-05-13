@@ -1,0 +1,8 @@
+84c18537ca18b394013fbaba9ae9287e *DESCRIPTION
+446898bd9104925b779d415a33f1831b *NAMESPACE
+b4fb11b0d778b568f527c4d4155c1f5a *R/hettreatreg.R
+88a86f3940195ede0e6683fda54dc37f *R/nswcps.R
+51bbc8f8903b81a0599ff5b93ad52fd5 *R/print.hettreatreg.R
+49c214dda6125f603f3f3db91c1d0a42 *data/nswcps.rda
+671de83000aa2cb8ea9ebb6a1d2c5fcb *man/hettreatreg.Rd
+809f9514da4ad76e5339ceb12f8cd65d *man/nswcps.Rd
